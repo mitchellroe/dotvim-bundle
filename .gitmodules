@@ -19,3 +19,6 @@
 [submodule "ansible-vim"]
 	path = ansible-vim
 	url = https://github.com/pearofducks/ansible-vim.git
+[submodule "vim-ripgrep"]
+	path = vim-ripgrep
+	url = https://github.com/jremmen/vim-ripgrep.git
