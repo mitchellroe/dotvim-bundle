@@ -22,3 +22,6 @@
 [submodule "vim-ripgrep"]
 	path = vim-ripgrep
 	url = https://github.com/jremmen/vim-ripgrep.git
+[submodule "vim-table-mode"]
+	path = vim-table-mode
+	url = https://github.com/dhruvasagar/vim-table-mode.git
