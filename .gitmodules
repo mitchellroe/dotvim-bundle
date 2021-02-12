@@ -25,3 +25,6 @@
 [submodule "vim-table-mode"]
 	path = vim-table-mode
 	url = https://github.com/dhruvasagar/vim-table-mode.git
+[submodule "vim-mergetool"]
+	path = vim-mergetool
+	url = https://github.com/samoshkin/vim-mergetool.git
