@@ -28,3 +28,6 @@
 [submodule "vim-mergetool"]
 	path = vim-mergetool
 	url = https://github.com/samoshkin/vim-mergetool.git
+[submodule "vim-eunuch"]
+	path = vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
